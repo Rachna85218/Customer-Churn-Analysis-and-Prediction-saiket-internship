@@ -61,7 +61,7 @@ This repository contains a Power BI dashboard project aimed at analyzing custome
 
 **Rachna Verma**  
 M.Sc. Data Science | CHRIST (Deemed to be University)  
-[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/rachna-verma-a31516262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[LinkedIn](https://www.linkedin.com/in/rachna-verma-a31516262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 
